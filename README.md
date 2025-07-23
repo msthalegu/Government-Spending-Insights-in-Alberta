@@ -10,18 +10,18 @@ Future analyses could investigate multi-year trends, the effectiveness of fundin
 # Visualizations
 **Figure 1**
 *Decomposition Tree of Top 10 Grant Recipients and the University of Calgary (2023–2024)*
-<img width="828" height="842" alt="image" src="https://github.com/user-attachments/assets/2be7ffce-b55c-4c32-ab20-65b6af39bb57" />
+<img width="1306" height="1474" alt="image" src="https://github.com/user-attachments/assets/ee76335a-9ac9-4295-90f6-6b39d4aec5ab" />
+
 
 **Figure 2.**
 *Top 10 Recipients of Grant Payments in the 2023–2024 Fiscal Year*
-<img width="975" height="575" alt="image" src="https://github.com/user-attachments/assets/41b072a5-36df-44c9-97dd-9fcc3865bdcd" />
-
+<img width="2234" height="1309" alt="image" src="https://github.com/user-attachments/assets/62fa8eec-9fc4-4d45-9a57-53985c7ef85b" />
 
 
 **Figure 3.**
 *Total Grant Payments by Ministry Group with Similar Objectives*
-<img width="521" height="429" alt="image" src="https://github.com/user-attachments/assets/4e2536ae-22a4-4c0a-886f-ea04b23d7771" />
-<img width="547" height="407" alt="image" src="https://github.com/user-attachments/assets/86299f26-ed2c-4b65-a582-26611380fd78" />
+<img width="2268" height="881" alt="image" src="https://github.com/user-attachments/assets/17979112-0e3a-4c74-b3d1-26ed9c1c11c3" />
+
 
 To see more about the project, including additional visualizations and results, please refer to the document titled [Report](https://github.com/msthalegu/Government-Spending-Insights-in-Alberta/blob/main/Report%20Government%20Spending%20Insights%20in%20Alberta.pdf).
 
