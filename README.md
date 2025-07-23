@@ -8,22 +8,20 @@ Major recipients included Alberta Health Services, universities, and municipalit
 Future analyses could investigate multi-year trends, the effectiveness of funding, geographic and demographic equity, and sectors that remain underfunded—such as Public Safety.
 
 # Visualizations
-**Figure 1**
-*Decomposition Tree of Top 10 Grant Recipients and the University of Calgary (2023–2024)*
-<img width="1306" height="1474" alt="image" src="https://github.com/user-attachments/assets/ee76335a-9ac9-4295-90f6-6b39d4aec5ab" />
+**Figure 1**  
+*Decomposition Tree of Top 10 Grant Recipients and the University of Calgary (2023–2024)*  
+[![Figure 1](https://github.com/user-attachments/assets/ee76335a-9ac9-4295-90f6-6b39d4aec5ab)](https://github.com/user-attachments/assets/ee76335a-9ac9-4295-90f6-6b39d4aec5ab)
 
+**Figure 2**  
+*Top 10 Recipients of Grant Payments in the 2023–2024 Fiscal Year*  
+[![Figure 2](https://github.com/user-attachments/assets/62fa8eec-9fc4-4d45-9a57-53985c7ef85b)](https://github.com/user-attachments/assets/62fa8eec-9fc4-4d45-9a57-53985c7ef85b)
 
-**Figure 2.**
-*Top 10 Recipients of Grant Payments in the 2023–2024 Fiscal Year*
-<img width="2234" height="1309" alt="image" src="https://github.com/user-attachments/assets/62fa8eec-9fc4-4d45-9a57-53985c7ef85b" />
-
-
-**Figure 3.**
-*Total Grant Payments by Ministry Group with Similar Objectives*
-<img width="2268" height="881" alt="image" src="https://github.com/user-attachments/assets/17979112-0e3a-4c74-b3d1-26ed9c1c11c3" />
-
+**Figure 3**  
+*Total Grant Payments by Ministry Group with Similar Objectives*  
+[![Figure 3](https://github.com/user-attachments/assets/17979112-0e3a-4c74-b3d1-26ed9c1c11c3)](https://github.com/user-attachments/assets/17979112-0e3a-4c74-b3d1-26ed9c1c11c3)
 
 To see more about the project, including additional visualizations and results, please refer to the document titled [Report](https://github.com/msthalegu/Government-Spending-Insights-in-Alberta/blob/main/Report%20Government%20Spending%20Insights%20in%20Alberta.pdf).
+
 
 
 
